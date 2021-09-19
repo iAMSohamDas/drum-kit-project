@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    background-image: url("images/drums.jpg");
+}
+  
+h1 {
+    font-size: 6rem;
+    margin-top: 0px;
+    background-color: #404B69;    
+    color: #DBEDF3;
+    font-family: Roboto;
+    text-shadow: 5px 0 #3204da;
+}
+
+.button.w {
+    background-image: url("images/w.png");
+}
+  
+.button.a {
+    background-image: url("images/a.png");
+}
+  
+.s {
+    background-image: url("images/s.png");
+}
+  
+.d {
+    background-image: url("images/d.png");
+}
+  
+.j {
+    background-image: url("images/j.png");
+}
+  
+.k {
+    background-image: url("images/k.png");
+}
+  
+.l {
+    background-image: url("images/l.png");
+}
+  
+   
+.all {
+    margin: 10% auto;
+}
+  
+.animation {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+  
+.button {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 1rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 0;
+    color: #ffffff;
+    border-radius: 15px;
+    display: inline-flex;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+}
